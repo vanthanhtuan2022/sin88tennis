@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Sin88 - Nhà cái uy tín hàng đầu Châu Á, đa dạng game hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Sin88 <https://sin88.tennis/>`_ là nhà cái uy tín hàng đầu tại Châu Á, nổi bật với thư viện game đa dạng và thường xuyên cập nhật những tựa game hot. Ra mắt tại Việt Nam vào ngày 10/1/2021, Sin88 được phát triển bởi công ty Playtech tại Singapore và có giấy phép hoạt động hợp pháp từ PAGCOR và Malta, đảm bảo an toàn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sin88 cung cấp trải nghiệm cá cược phong phú với nhiều thể loại game như slot, game bài và cá cược thể thao, đồng thời cam kết lắng nghe ý kiến khách hàng để cải thiện dịch vụ và bảo vệ quyền lợi của người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1/2D Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0905841770. 
 
-.. toctree::
+Email: info@sin88.tennis. 
 
-   usage
-   api
+Website: https://sin88.tennis/
+
+#sin88 #trangchusin88 #dangkysin88 #dangnhapsin88 #linksin88
